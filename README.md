@@ -4,7 +4,7 @@ A sophisticated customer support system powered by machine learning and natural 
 
 ## Overview
 
-Briefly describe the purpose and features of the project. Highlight the key aspects that make this customer support system intelligent and user-friendly.
+Makes customer support system intelligent and user-friendly.
 
 ## Key Features
 
@@ -76,3 +76,36 @@ conn.commit()
 
 # Thank the user for their feedback on the identified issue
 print("Thank you for your feedback!")
+
+### Getting Started
+Follow these steps to set up and run the Intelligent Customer Support system on your local machine.
+
+Prerequisites
+Python (version >= 3.6)
+Pip (Python package installer)
+SQLite (for data storage)
+
+
+### Installation
+Clone the repository to your local machine.
+bash
+Copy code
+git clone https://github.com/your-username/Intelligent-Customer-Support.git
+Navigate to the project directory.
+bash
+Copy code
+cd Intelligent-Customer-Support
+
+### Install the required Python packages.
+bash
+Copy code
+pip install -r requirements.txt
+Usage
+Run the main script to start the Intelligent Customer Support system.
+
+bash
+Copy code
+python customer_support.py
+Follow the on-screen instructions to input user queries and receive recommendations.
+
+
