@@ -75,7 +75,7 @@ cursor.execute("INSERT INTO user_feedback (issue, feedback) VALUES (?, ?)", (rec
 conn.commit()
 
 # Thank the user for their feedback on the identified issue
-print("Thank you for your feedback!")
+print("Thank you for your feedback!")```
 
 ### Getting Started
 Follow these steps to set up and run the Intelligent Customer Support system on your local machine.
