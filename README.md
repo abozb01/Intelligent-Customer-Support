@@ -93,20 +93,15 @@ Clone the repository to your local machine.
 git clone https://github.com/your-username/Intelligent-Customer-Support.git
 ```
 Navigate to the project directory.
-bash
-Copy code
+```
 cd Intelligent-Customer-Support
-
+```
 ### Install the required Python packages.
-bash
-Copy code
+```
 pip install -r requirements.txt
-Usage
+```
+### Usage
 Run the main script to start the Intelligent Customer Support system.
 
-bash
-Copy code
-python customer_support.py
-Follow the on-screen instructions to input user queries and receive recommendations.
 
 
